@@ -20,8 +20,8 @@ html {
 body {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/23/95/8a/23958add6a0fb842dd1a22cadcb9a545.jpg");
   font: 18px/1.4 $helvetica;
-  color: "rgb(0,0,255)";
-}
+  color: $blue; 
+}	  
 
 .container {
   margin: 0 auto;
